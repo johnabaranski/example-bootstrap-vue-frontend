@@ -1,4 +1,4 @@
-# Vue KU Core Search
+# Vue Example Bootstrap-Vue Search
 
 ## Prerequisites
 - NPM
