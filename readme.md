@@ -16,7 +16,7 @@ yarn global add @vue/cli
 
 To clone the project:
 ```bash
-git clone git@gitlab.ku.edu:cdas/ku-core-vue.git
+git clone https://github.com/johnabaranski/example-bootstrap-vue-frontend.git
 ```
 To build the project use either yarn or npm. This will create the "node_modules" folder and install all of the project dependencies.
 ```bash
